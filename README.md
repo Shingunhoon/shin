@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=geonhoon&fontSize=90" />
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Welcome👋&fontAlign=70&rotate=13&fontAlignY=25&desc=seulzzang's%20GitHub&descAlign=70.&descAlignY=44)
 
 <img src="https://github-readme-stats.vercel.app/api?username=shingunhoon&show_icons=true">
 
