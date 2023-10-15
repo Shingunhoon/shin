@@ -1,6 +1,6 @@
 # shin
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+![header](https://capsule-render.vercel.app/apihttps://camo.githubusercontent.com/cd3e57d05dbc7ebfba1a0d6ec6128340e8f739987d7c951de27f08224cbf0f45/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d63796c696e64657226636f6c6f723d6175746f26746578743d43796c696e64657226666f6e74416c69676e593d343526666f6e7453697a653d3430266865696768743d31353026616e696d6174696f6e3d626c696e6b696e6726646573633d646573632532306973253230616c736f253230616e696d617465642664657363416c69676e593d3730type=slice)
+<img src="https://capsule-render.vercel.app/apihttps://camo.githubusercontent.com/cd3e57d05dbc7ebfba1a0d6ec6128340e8f739987d7c951de27f08224cbf0f45/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d63796c696e64657226636f6c6f723d6175746f26746578743d43796c696e64657226666f6e74416c69676e593d343526666f6e7453697a653d3430266865696768743d31353026616e696d6174696f6e3d626c696e6b696e6726646573633d646573632532306973253230616c736f253230616e696d617465642664657363416c69676e593d3730type=cylinder&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShingunhoon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%2351D02E&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![잘자 (1)](https://github.com/Shingunhoon/shin/assets/106463244/869a7255-e6d2-49d1-bf19-c9bcd1c3a5ce)
 
